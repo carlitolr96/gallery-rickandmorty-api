@@ -47,7 +47,7 @@ const Section3 = () => {
     return (
         <div className="mt-16 border-t border-gray-300 pt-8">
             <p className="text-center text-xs/relaxed text-gray-500">
-                © {new Date().getFullYear()} NASA Gallery. Todos los derechos reservados.
+                © {new Date().getFullYear()} Rick and Morty. Todos los derechos reservados.
                 <br />
                 Created with
                 <a
